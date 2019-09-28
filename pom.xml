@@ -63,5 +63,6 @@
         </plugin>
       </plugins>
     </pluginManagement>
+    <defaultGoal>compile</defaultGoal>
   </build>
 </project>
